@@ -539,9 +539,7 @@ host, icloud-amap.com, reject
 host, logs.amap.com, reject
 host-suffix, dualstack-logs.amap.com, reject
 host-suffix, logs.amap.com, reject
-host-suffix, optimus-ads.amap.com, reject
 host-suffix, page.amap.com, reject
-host, optimus-ads.amap.com, reject
 host, optimus-ads.amap.com.w.alikunlun.com, reject
 host-suffix, shouji.sougou.com, reject
 host, u51.me, reject
@@ -5388,7 +5386,6 @@ host-suffix, jiayi1.oss-cn-shanghai.aliyuncs.com, reject
 host-suffix, player.alloutwedding.com, reject
 host-suffix, affiliates.allposters.com, reject
 host-suffix, geobanner.alt.com, reject
-host-suffix, optimus-ads.amap.com, reject
 host-suffix, dailydeals.amarillo.com, reject
 host-suffix, cpm.amateurcommunity.com, reject
 host-suffix, mads.amazon.com, reject
