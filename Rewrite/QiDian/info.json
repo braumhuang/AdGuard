@@ -1,0 +1,6 @@
+{
+    "main": "https://raw.githubusercontent.com/app2smile/rules/master/module/qidian.conf",
+    "script": {
+        "qidian.js": "https://raw.githubusercontent.com/app2smile/rules/master/js/qidian.js"
+    }
+}

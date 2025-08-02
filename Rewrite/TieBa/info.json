@@ -1,0 +1,6 @@
+{
+    "main": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/TieBaAds.conf",
+    "script": {
+        "tieba-proto.js": "https://raw.githubusercontent.com/app2smile/rules/master/js/tieba-proto.js"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "main": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/NeteaseAds.conf",
+    "script": {
+        "netease.adblock.js": "https://gist.githubusercontent.com/ddgksf2013/4f53b7c6083678df25fecc8ff68b52c4/raw/netease.adblock.js"
+    }
+}
