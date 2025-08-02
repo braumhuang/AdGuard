@@ -1,0 +1,7 @@
+{
+    "main": "https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/BilibiliAds.conf",
+    "script": {
+        "bilibili_json.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/bilibili_json.js",
+        "response.bundle.js": "https://github.com/BiliUniverse/ADBlock/releases/download/v0.6.19/response.bundle.js"
+    }
+}

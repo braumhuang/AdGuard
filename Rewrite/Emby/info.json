@@ -1,0 +1,6 @@
+{
+    "main": "https://raw.githubusercontent.com/qiangxinglin/Emby/main/QuantumultX/emby.conf",
+    "script": {
+        "emby.js": "https://raw.githubusercontent.com/qiangxinglin/Emby/main/scripts/emby.js"
+    }
+}

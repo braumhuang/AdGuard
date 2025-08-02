@@ -1,0 +1,8 @@
+{
+    "main": "https://github.com/ddgksf2013/Rewrite/raw/master/AdBlock/Weibo.conf",
+    "script": {
+        "weibo_json.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/weibo_json.js",
+        "weibo_search_info.json": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/weibo_search_info.json",
+        "weibo_search_topic.json": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/weibo_search_topic.json"
+    }
+}

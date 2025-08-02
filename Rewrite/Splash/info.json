@@ -1,0 +1,33 @@
+{
+    "main": "https://gist.githubusercontent.com/ddgksf2013/12ef6aad209155e7eb62c5b00c11b9dd/raw/StartUpAds.conf",
+    "script": {
+        "12306.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/12306.js",
+        "123pan.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/123pan.js",
+        "555Ad.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/555Ad.js",
+        "abchina.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/master/abchina.js",
+        "ahfs.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/ahfs.js",
+        "amdc.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/amdc.js",
+        "baidumap.js": "https://raw.githubusercontent.com/app2smile/rules/master/js/baidumap.js",
+        "baishitv.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/master/baishitv.js",
+        "caixinads.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/caixinads.js",
+        "coolapk.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/coolapk.js",
+        "dict.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/dict.js",
+        "dongqiudi.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/master/dongqiudi.js",
+        "fly.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/fly.js",
+        "hanglvzongheng.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/hanglvzongheng.js",
+        "iqiyi_open_ads.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/iqiyi_open_ads.js",
+        "ithome.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/ithome.js",
+        "jd_json.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/jd_json.js",
+        "pinganads.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/master/pinganads.js",
+        "pupumarket.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/master/pupumarket.js",
+        "qidian.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/qidian.js",
+        "quark.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/master/quark.js",
+        "shunfeng_json.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/shunfeng_json.js",
+        "smzdm_json.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/smzdm_json.js",
+        "startup.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/startup.js",
+        "stay.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/stay.js",
+        "v2ex.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/v2ex.js",
+        "weixin110.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/master/weixin110.js",
+        "zhihu_openads.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/zhihu_openads.js"
+    }
+}

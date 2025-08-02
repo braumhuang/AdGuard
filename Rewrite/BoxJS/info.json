@@ -1,0 +1,7 @@
+{
+    "main": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/rewrite/boxjs.rewrite.quanx.conf",
+    "script": {
+        "chavy.boxjs.js": "https://raw.githubusercontent.com/chavyleung/scripts/master/box/chavy.boxjs.js",
+        "box.js": "https://raw.githubusercontent.com/chavyleung/scripts/master/chavy.box.js"
+    }
+}

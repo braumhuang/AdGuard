@@ -1,0 +1,26 @@
+{
+    "main": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/QuantumultX/rewrite/cleanup.snippet",
+    "script": {
+        "FamilyMart.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/FamilyMart.js",
+        "T3.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/T3.js",
+        "alittle-tea.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/alittle-tea.js",
+        "applet.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/applet.js",
+        "coco.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/coco.js",
+        "cyys.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/cyys.js",
+        "didiAds.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/didi/didiAds.js",
+        "ems.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/ems.js",
+        "heytea.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/heytea.js",
+        "jabi.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/jabi.js",
+        "kff.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/kff.js",
+        "lawson.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/lawson.js",
+        "manhuatailite.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/manhuatailite.js",
+        "ming.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/ming.js",
+        "qingju.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/qingju.js",
+        "soda.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/soda.js",
+        "watsons.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/watsons.js",
+        "xiaodaka.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/xiaodaka.js",
+        "xiaotucc.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/xiaotucc.js",
+        "yx.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/yx.js",
+        "zhangshanggongjiao.js": "https://raw.githubusercontent.com/fmz200/wool_scripts/main/Scripts/zhangshanggongjiao.js"
+    }
+}
