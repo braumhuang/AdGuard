@@ -132,7 +132,10 @@ class Update:
                 script_dict = {}
                 for line in GSPath.read(main_path).splitlines():
                     line = line.strip()
-                    if 'github' in line and not line.startswith('//') and not line.startswith('#'):
+                    if 'github' in line and \
+                            not line.startswith('//') and \
+                            not line.startswith('#') and\
+                            not line.startswith('> '):
                         pattern = r'[^;](https?://[^/\s]*github[^/\s]*\.com[^\s"]*)'
                         r = re.search(pattern, line)
                         if r:
