@@ -1,7 +1,7 @@
 # coding=utf-8
 from tkinter import filedialog
 from tkinter import Tk
-import Config
+import Zone.Config as Config
 import requests
 import glob
 import time

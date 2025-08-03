@@ -1,0 +1,6 @@
+{
+    "main": "https://raw.githubusercontent.com/chxm1023/Advertising/refs/heads/main/JavDB.js",
+    "script": {
+        "JavDB.js": "https://raw.githubusercontent.com/chxm1023/Advertising/main/JavDB.js"
+    }
+}

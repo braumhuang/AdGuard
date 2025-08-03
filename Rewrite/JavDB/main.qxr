@@ -1,0 +1,5 @@
+[rewrite_local]
+^https?:\/\/jdforrepam\.com\/api\/v1\/(ads|startup) url script-response-body https://raw.githubusercontent.com/braumhuang/AdGuard/master/Rewrite/JavDB/Script/JavDB.js
+
+[mitm]
+hostname = jdforrepam.com
