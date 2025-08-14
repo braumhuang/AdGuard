@@ -1,0 +1,6 @@
+{
+    "main": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/BingSimplify.conf",
+    "script": {
+        "bing.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/bing.js"
+    }
+}

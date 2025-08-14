@@ -1,0 +1,6 @@
+{
+    "main": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/refs/heads/master/AdBlock/GoofishAds.conf",
+    "script": {
+        "amdc.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/amdc.js"
+    }
+}

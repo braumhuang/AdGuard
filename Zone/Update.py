@@ -119,7 +119,7 @@ class Update:
         main_name = 'main.qxr' if parse else 'main.qxf'
         main_path = GSPath.join(info_folder, main_name)
         if not GSPath.exist(main_path):
-            download = GSPath.download_file(url=main, use_proxy=True)
+            download = GSPath.download_file(url=main)
             if download:
                 GSPath.write(main_path, download.decode())
             else:
@@ -160,7 +160,7 @@ class Update:
                 if GSPath.exist(path):
                     path_url[path] = url
                 else:
-                    download = GSPath.download_file(url=url, use_proxy=True)
+                    download = GSPath.download_file(url=url)
                     if download:
                         path_url[path] = url
                         GSPath.write(path, download.decode())

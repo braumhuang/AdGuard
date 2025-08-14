@@ -1,0 +1,7 @@
+{
+    "main": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/CainiaoAds.conf",
+    "script": {
+        "amdc.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/amdc.js",
+        "cainiao_json.js": "https://raw.githubusercontent.com/ddgksf2013/Scripts/refs/heads/master/cainiao_json.js"
+    }
+}

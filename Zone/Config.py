@@ -39,7 +39,7 @@ proxies = {
 
 root_path = Path(__file__).parent.parent
 
-qxc_path = os.path.join(root_path, 'QuantumultX\Winston.qxc')
+qxc_path = os.path.join(root_path, 'QuantumultX', 'Winston.qxc')
 
 if __name__ == '__main__':
     print(qxc_path)
