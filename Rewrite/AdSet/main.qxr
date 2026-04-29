@@ -976,7 +976,6 @@ https://apis.lifeweek.com.cn/api/baseConfig/getIosNewConfig url reject
 ^https:\/\/www\.ymm56\.com\/short-distance-match-app\/openAppAd url reject-dict
 ^https?:\/\/alt-r\.my\.com\/mobile url reject-dict
 ^https?:\/\/imgx\.jampp\.com\/imgsrv\/tn url reject-img
-^https:\/\/testflight\.apple\.com\/v2\/accounts\/.*\/apps\/\d*\/builds\/\d*\/install$ url request-body "storefrontId"\x20:\x20.*, request-body "storefrontId":"143441-19,29",
 ^https?:\/\/ga-album-cdnqn\.52tt\.com\/prod-yunying\/.+.jpg url reject-dict
 ^https?:\/\/api\.taptapdada\.com\/startup-logo\/v\d\/combo\? url reject-dict
 ^https?:\/\/.*\.i18n-pglstatp\.com\/obj\/ad-pattern-sg url reject

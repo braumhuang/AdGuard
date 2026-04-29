@@ -1,6 +1,6 @@
 // ==UserScript==
 // @ConfigName        QX配置文件
-// @UpdateTime        20250801
+// @UpdateTime        20260430
 // @ConfigURL         https://raw.githubusercontent.com/braumhuang/AdGuard/master/QuantumultX/Winston.qxc
 // ==/UserScript==
 
@@ -11,9 +11,9 @@
 
 [general]
 # > 用于节点延迟测试
-server_check_url= http://www.gstatic.com/generate_204
+server_check_url=http://www.gstatic.com/generate_204
 # > 服务器测试超时时间 (毫秒)
-server_check_timeout = 3000
+server_check_timeout=3000
 # > 用于设置图标显示
 profile_img_url=https://raw.githubusercontent.com/braumhuang/AdGuard/master/Image/Avatar.png
 # > 用于Check节点IP地址
@@ -33,6 +33,12 @@ dns_exclusion_list=*.cmpassport.com, *.jegotrip.com.cn, *.icitymobile.mobi, id6.
 
 
 [rewrite_remote]
+https://raw.githubusercontent.com/braumhuang/AdGuard/master/Rewrite/JavDB/main.qxr, tag=DB, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/braumhuang/AdGuard/master/Rewrite/Train/main.qxr, tag=12306, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/braumhuang/AdGuard/master/Rewrite/TieBa/main.qxr, tag=贴吧, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/braumhuang/AdGuard/master/Rewrite/QiDian/main.qxr, tag=起点, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/braumhuang/AdGuard/master/Rewrite/Netease/main.qxr, tag=网易云音乐, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/braumhuang/AdGuard/master/Rewrite/BdPan/main.qxr, tag=百度网盘, update-interval=-1, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/braumhuang/AdGuard/master/Rewrite/DiDi/main.qxr, tag=滴滴, update-interval=-1, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/braumhuang/AdGuard/master/Rewrite/BiLi/main.qxr, tag=哔哩哔哩, update-interval=-1, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/braumhuang/AdGuard/master/Rewrite/Emby/main.qxr, tag=Emby, update-interval=-1, opt-parser=true, enabled=true
@@ -49,6 +55,8 @@ https://raw.githubusercontent.com/braumhuang/AdGuard/master/Rewrite/BoxJS/main.q
 
 
 [server_remote]
+
+
 [dns]
 # > QuantumultX开启IPV6方法，删去下面的「no-ipv6」，在「VPN」栏中，开启「兼容性增强」
 no-ipv6
@@ -86,6 +94,7 @@ https://raw.githubusercontent.com/braumhuang/AdGuard/master/Filter/WeChat/main.q
 https://raw.githubusercontent.com/braumhuang/AdGuard/master/Filter/Voice/main.qxf, tag=Google Voice, force-policy=美国节点, update-interval=-1, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/braumhuang/AdGuard/master/Filter/OpenAI/main.qxf, tag=OpenAi, force-policy=美国节点, update-interval=-1, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/braumhuang/AdGuard/master/Filter/China/main.qxf, tag=国内网站, force-policy=direct, update-interval=-1, opt-parser=true, enabled=true
+https://raw.githubusercontent.com/braumhuang/AdGuard/master/Filter/Japan/main.qxf, tag=日本网站, force-policy=日本节点, update-interval=-1, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/braumhuang/AdGuard/master/Filter/Streaming/main.qxf, tag=国际媒体, force-policy=国际媒体, update-interval=-1, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/braumhuang/AdGuard/master/Filter/Proxy/main.qxf, tag=全球加速, force-policy=全球加速, update-interval=-1, opt-parser=true, enabled=true
 https://raw.githubusercontent.com/braumhuang/AdGuard/master/Filter/Unbreak/main.qxf, tag=规则修正, force-policy=direct, update-interval=-1, opt-parser=true, enabled=true
@@ -93,7 +102,6 @@ https://raw.githubusercontent.com/braumhuang/AdGuard/master/Filter/AdBlock/main.
 
 
 [filter_local]
-host-suffix, dmm.co.jp, 日本节点
 host-suffix, local, direct
 ip-cidr, 192.168.0.0/16, direct
 ip-cidr, 10.0.0.0/8, direct
